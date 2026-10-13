@@ -6,9 +6,9 @@ description: Personal website of Ada Ball.
 
 # Ada Ball
 
-I am a professional software developer by trade.
+Hello there, my name is Ada.  I am a software engineer by trade.
 
-## Find me elsewhere
+## Contact Info
 
 - [Email](mailto:ada@adaball.org)
 - [GitHub](https://github.com/adaball)
